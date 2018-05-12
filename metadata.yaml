@@ -1,0 +1,31 @@
+_repo: A-Filha-do-Cabinda_21961
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Campos, Alfredo
+    birthdate: 1847
+    gutenberg_agent_id: '24996'
+    url: http://www.gutenberg.org/2009/agents/24996
+description: ''
+gutenberg_bookshelf: PT Romance
+gutenberg_issued: '2007-06-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '21961'
+language: pt
+language_note: This ebook uses 19th century spelling.
+production_note: "Produced by Pedro Saborano from scanned images\r\nof public domain\
+  \ material from Google Book Search"
+publication_note: "Porto:\r\nEditores -- Peixoto & Pinto Junior\r\n119, Rua do Almada,\
+  \ 123\r\nImprensa Portugueza, Bomjardim, 181\r\n1873"
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Slavery -- Brazil -- Fiction'
+- !lcc 'PQ'
+title: A Filha do Cabinda
+url: http://www.gutenberg.org/ebooks/21961
